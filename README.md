@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://ewzduhvhjkj.exactdn.com/wp-content/uploads/2023/07/25111852/Django-Models-and-Database-Integration-A-Comprehensive-Tutorial-Banner.png?strip=all&lossy=1&ssl=1)](https://abhinavsingh09.vercel.app/)
 <h1 align="center">Hi 👋, I'm Abhinav singh</h1>
 <h3 align="center">A passionate Django, flutter and Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
