@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhinav singh</h1>
 <h3 align="center">A passionate Django, flutter and Blockchain developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://image.similarpng.com/very-thumbnail/2021/01/Web-development,-programmer-engineering-and-coding-website-on-augmented-reality-interface-screens-on-transparent-background-PNG.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavsingh0923&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavsingh0923" /> </p>
 
 - 🔭 I’m currently working on GraphlQl **GraphQl Apis**
