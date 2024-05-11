@@ -5,7 +5,7 @@
     I like to build things in the right way, and I'm a little curious 👀.<br/>
     <a href="https://abhinavsingh09.vercel.app/">Website</a> ᐧ
     <a href="https://www.linkedin.com/in/abhinav-singh-2582b4226">LinkedIn</a> ᐧ
-   <a href="[https://www.linkedin.com/in/abhinav-singh-2582b4226](https://leetcode.com/u/singhabhinav0923/)">Leetcode</a>
+   <a href="https://leetcode.com/u/singhabhinav0923/">Leetcode</a>
   </samp>
 </p>
 
