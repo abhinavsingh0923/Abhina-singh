@@ -12,7 +12,7 @@
 <ul align="center">
   <samp align="center">💻 Django/Djangorestframework | Python.</samp></br>
   <samp align="center">🛠 Flutter | ReactJs | NextJs | Tailwind | ThreeJs</samp></br>
-  <samp align="center">📦 SQL | Redis | Protgresql | AWS | Rest-Ap | Docker | GraphQL | Prisma.</samp></br>
+  <samp align="center">📦 SQL | Redis | Protgresql | AWS | Rest-Api | Docker | Prisma.</samp></br>
   <samp align="center">💅 Blockchain | Truffle | Ganache | Ethereumm | Solidity.</samp></br>
   <samp align="center" >📊 Bash | Gitflow | Dribble | Linux</samp></br>
 </ul>
