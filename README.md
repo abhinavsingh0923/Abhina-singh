@@ -19,4 +19,3 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavsingh0923&show_icons=true&locale=en&layout=compact&icon_color=2F81F7&count_private=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_border=true" alt="abhinavsingh" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsingh0923&show_icons=true&locale=en&layout=compact&icon_color=2F81F7&count_private=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_border=true" alt="abhinavsingh0923" />
